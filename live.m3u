@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="2026/01/15 18:47" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="更新日期",2026/01/15 18:47
+https://liuliuliu.tv/api/channels/1997/stream$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
 http://115.48.161.26:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
@@ -67,5 +69,3 @@ http://115.48.161.26:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 http://115.48.161.26:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="北京少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京少儿.png" group-title="少儿频道",北京少儿
 http://115.48.161.26:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="1" tvg-name="2026/01/15 18:47" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="更新日期",2026/01/15 18:47
-https://liuliuliu.tv/api/channels/1997/stream$LR•IPV4『线路1』
